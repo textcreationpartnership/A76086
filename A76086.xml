@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Holy Scripture owned, and the Athenians injustice detected, by The abused Quaker.</title>
+            <author>Abused Quaker.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76086</idno>
+            <idno type="STC">Wing B106A</idno>
+            <idno type="STC">ESTC R170410</idno>
+            <idno type="EEBO-CITATION">45789145</idno>
+            <idno type="OCLC">ocm 45789145</idno>
+            <idno type="VID">172458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172458)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Holy Scripture owned, and the Athenians injustice detected, by The abused Quaker.</title>
+                  <author>Abused Quaker.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Criticism and interpretation --  England --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172458:1" rendition="simple:additions"/>
+            <head>THE Holy Scripture Owned, AND THE Athenians Injuſtice Detected, By the Abuſed QUAKER.</head>
+            <p>THeir charge (in their <hi>Mercury</hi> of <hi>June</hi> 11. 1692.) upon the Quakers, as <hi>ſpeaking contemptibly of tae Bible,</hi> is con<g ref="char:EOLhyphen"/>tradicted by themſelves in their not only ſaying, <hi>they e<g ref="char:EOLhyphen"/>qual Apocrypha with Scrptare,</hi> but alſo in accuſing <hi>Samuel Fiſher,</hi> for eſteeming ſome of thoſe Books called the A<g ref="char:EOLhyphen"/>pocrypha of as Divine Original, as thoſe called Canonical; and for ſaying, <q>if ſuch Synods as ſhouldered out all thoſe <hi>Books</hi> from ſharing with the other writings, in what they lay juſt claim to had been ſpiritually diſcerning, they would have ſeen cauſe to have joyned ſome, at leaſt, of theſe Apocryphal Scriptures to <hi>an equal Participation</hi> of the Plea of <hi>Divine Original,</hi> and <hi>Inſpiration with the reſt:</hi> And further that whatever is truly to be predica<g ref="char:EOLhyphen"/>ted of the one, or can be pleaded ſollidly on the behalf of the one, which you call your Canon; as to the <hi>Divinity</hi> of <hi>their Original,</hi> the ſame may be pleaded on the behalf of <hi>not a few</hi> of the other, inſtancing 2d <hi>of Eſdras, Epiſtle of Jer. Eccleſiaſticus, Wiſdom of So<g ref="char:EOLhyphen"/>lomon.</hi>
+               </q>
+            </p>
+            <p>From all which obſerve, that <hi>Samuel Fiſher</hi> is ſo far from ſpeak<g ref="char:EOLhyphen"/>ing <hi>contemptibly</hi> of the Bible, that he confeſſes the Scriptures which are eſteemed <hi>Canonical,</hi> to be of <hi>Divine Original and Inſpiration,</hi> and argues for <hi>Some,</hi> at <hi>leaſt of</hi> thoſe Apocryphal Scriptures to parti<g ref="char:EOLhyphen"/>cipate of the Plea of <hi>Divine Originaul and Inſpiration</hi> (and ſo does ſome of your own Doctors). How ſhould he then contemn the Bible? Or with the Papiſts invalidate the Authority of thoſe Writings, as charged, when he confeſſes them to be of a <hi>Divine Original and Authority?</hi> The <hi>Apocryphal Scriptures</hi> he modeſtly owns <hi>ſome of them,</hi> to be of the ſame Authority which theſe men deem <hi>Popery,</hi> ſo that it ſeems the Bible is more magnified by <hi>Samuel, Fi<g ref="char:EOLhyphen"/>ſher,</hi> than by theſe pretended <hi>Athenians.</hi>
+            </p>
+            <p>And 'tis obſervable that after they have inſtanced <hi>Sam. Fiſhers</hi> Book, for ſome Apocryphal Scriptures to be of Divine Original, they dare not in plain words deny, nor do they refute what he ſays in that Caſe; but conclude with a ſcornful Reflection, and falſe-infinuation, <hi>viz. Whence we may judge, whether he travelled to</hi> Rome <hi>for nothing.</hi> And yet we preſume they dare not ſay, that none of the <hi>Apocryphal Scriptures,</hi> were given by Divine Inſpira<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Their other falſe charge, againſt the Quakers in general, on <hi>Samuel Fiſhers</hi> account is, <hi>viz.</hi> Laſtly, <hi>They uſe the ſame detracted Expreſſions concerning it, with the Papiſts and Jeſuiss, calling it a Noſe of Wax, a Leſbian Rule, a dead Letter,</hi> &amp;c. and bid us ſee <hi>S. Fiſher, p.</hi> 48, <hi>of Rusticus ad Accidemicos,</hi> And we would have them ſee it better. 1ſt, That there is no proof againſt the People called Quakers, that they call the Scripture, <hi>a Noſe of Wax, &amp;c.</hi> Se<g ref="char:EOLhyphen"/>condly, Nor doth <hi>Samuel Fiſher</hi> ſo call it with the Papiſts and Je<g ref="char:EOLhyphen"/>ſuits (as falſly charged) <q>But that in its meaneſt, and moſt al<g ref="char:EOLhyphen"/>tered, and adulterated Capacity, as wreſted and torn, and <hi>like a Noſe of Wax;</hi> twiſted and twined into ſeveral Shapes by mens untrue Tranſcripts, Variety of Lections, and Sences through Miſrenderings, corrupt Copyings, Correctings, and Com<g ref="char:EOLhyphen"/>mentings, <hi>&amp;c</hi> —</q> With more of the ſame Import, natu<g ref="char:EOLhyphen"/>rally depending thereupon, in all which he does not appear upon his own Judgment and Principle, to give the Holy Scripture the Title of <hi>a Noſe of Wax. &amp;c.</hi> But infers it as the conſequence of ſuch Mens Abuſe of it, who alter, adulterate, wreſt, twiſt and twine it: Therefore you pretended <hi>Athenians</hi> have dealt very diſ<g ref="char:EOLhyphen"/>ingeniouſly in this matter. Firſt, In thus charging the Quakers in General, from a Particular. Secondly, In perverting <hi>Sam. Fiſhers</hi> Words and Senſe to an evil End, never deſigned by him; that he ſhould one while own the Holy Scripture to be of <hi>Divine Origi<g ref="char:EOLhyphen"/>nal and Inſpiration,</hi> aed another while contemptibly term it <hi>a Noſe of Wax;</hi> is ſo monſtruous that tis incredible to rational men, eſpe<g ref="char:EOLhyphen"/>cially to ſuch as knew him, his Sobriety and Learning, which he himſelf ſet little by in Compariſon of the Excellency of the Di<g ref="char:EOLhyphen"/>vine Knowledge of Chriſt Jeſus, which God in Mercy made him a Partaker of.</p>
+            <p>
+               <hi>Beſides he writ of the Scriptures under divers conſiderations, and conſidered it in it's primitive, beſt, and pureſt</hi> Aſpect, <hi>as at firſt given forth, declaring himſelf to be</hi> 
+               <q>No Pander for the Papiſts, as belyed, but a juſt, plain, and impartial Pleader for the Scripture; a Doer of right to thoſe Holy Writings, which are egrediouſly wronged by both Papiſts and Proteſtants, and vindicates many, falſly ſuppoſed to be Slighters and Diſowners of the Scripture, <hi>i. e. (Our Friends)</hi> that they do own, value, honour and exalt the Scripture, both in aſcrib<g ref="char:EOLhyphen"/>ing all that to it which it aſſumes to it ſelf, and in Preaching and pra<g ref="char:EOLhyphen"/>ctiſing that holy Life which is the end of it</q> 
+               <hi>(Thus far</hi> S. F.) <hi>in his very Anſwer unfairly cited againſt him,</hi> p. <hi>48, 49 of his</hi> Ruſticus, <hi>and 2d</hi> Apologetical and Expoſtulatory Exercitation.</p>
+            <p>Thus you may ſee how unjuſtly theſe men have miſrepreſented <hi>Samuel Fiſher,</hi> and the People called Quakers, on his account, con<g ref="char:EOLhyphen"/>cerning the Holy Scripture.</p>
+            <p>Their Charge that <hi>they not only equal the Appocripha, but their own Writings with it, and indeed more than equal their own Writings unto them, for they plainly prefer them before 'em</hi> (i. e. the <hi>Scriptures</hi>) both which we utterly deny. Firſt, That we ſo equal our own Wri<g ref="char:EOLhyphen"/>tings. And ſecondly that we ſo prefer them, we make no ſuch Compariſon, but prefer the Spirit to the Letter, as <hi>Paul</hi> did. And we prefer the Scriptures before all other Books and Writings, extant in the world.</p>
+            <p>And as for our believing, or affirming, that the Holy Ghoſt ſometimes moves among us to ſpeak, or propheſie.</p>
+            <p>This our ſcornful Adverſaries (inſtead of confuting) do ſcoff and deride, ſaying, they have learned to be <hi>God's Ape,</hi> which be<g ref="char:EOLhyphen"/>ſpeaks their Levity and Prophaneſs, (if not Atheiſm) as well as Ignorance of God's Promiſes, for his pouring out of his Spirit in the latter days, and the Effects thereof: And pray what Scripture have they for their Stile, in calling us <hi>God's Ape?</hi> Theſe are the Perſons that profeſs the Scripture to be their Rule, but ſeeing they will have it that, <hi>we equal our Writings with the Scripture,</hi> in ſaying, <hi>thus ſaith the Lord;</hi> and <hi>G. F. Junior</hi> ſaying, <hi>What I have written are the words which the Father gave me to write:</hi> Tho this be ſhort of proving their Charge, yet it contradicts their falſly, ſay<g ref="char:EOLhyphen"/>ing we ſpeak contemptibly of the Bible, for we do not ſpeak con<g ref="char:EOLhyphen"/>temptibly of our own Writings herein, when we believe any of them contain Words given us of God.</p>
+            <p>Another charge is, <hi>That they will by no means allow, the Bible to be the Word of God.</hi> Whileſt we allow the Bible to be what it ſaith of it ſelf, that is, <hi>a book we prefer before all other writings and books, a book containining the Holy Scriptures, and words of God; firſt given by Divine Inſpiration, as well as containing a true Hiſtory of the Devils, and wicked Mens Words and Actions, for warning againſt them.</hi> I think no honeſt man will condemn us either for <hi>contemning the Bible,</hi> or the Holy Scriptures on this account. And tho the Bible, <hi>or Books,</hi> as made up of <hi>Paper, Ink, and Literal Characters,</hi> will wax old, decay and moulder in time (as <hi>S. F.</hi> ſaith) Yet the word of God, by which all things are upheld, together with thoſe divine Truths, Doctrines, and Teſtimonies contained in the Holy Scriptures, will live and endure for ever; and this can be no contempt of Holy Scripture, nor contemptible ſpeaking of the Bible, any more than to ſay, the Foundations of the Earth which God laid, and the Heavens which are the Works of his Hands (tho a more copious book than the Bible) yet they ſhall wax old as doth a Garment, and they ſhall periſh; but he (that word that made them) re<g ref="char:EOLhyphen"/>maineth the ſame, and his Years fail not, <hi>Pſal.</hi> 102.25, 26. <hi>Heb.</hi> 1.10, 11.</p>
+            <p>But from <hi>W. P.</hi> in his Key of their Principles, <hi>p.</hi> 240, they Charge, <hi>viz.</hi> 
+               <q>
+                  <hi>That the Quakers deny the Scriptures</hi> (or Writings) <hi>to be the Word,</hi> is becauſe they never call themſelves ſo, but de<g ref="char:EOLhyphen"/>nominate Chriſt by that Title, and that 'tis in reverence to Chriſt. Yea and not with any diſeſteem of the Holy Scriptures, nor any <hi>common Falacy,</hi>
+               </q> as theſe Men faſly judge, which is their common courſe to recriminate, when they cannot give a fair Replica<g ref="char:EOLhyphen"/>tion. But how do they deſire the word of God with their Lear<g ref="char:EOLhyphen"/>ning? They grant <hi>Chriſt is called the Word of God figuratively, be<g ref="char:EOLhyphen"/>cauſe he proceeds from him, that the Scriptures are more properly his Word tho written, not the very Letters, which is ridiculous to ſuppoſe, and was never affirmed</hi> (how then is the Bible the Scriptures, or the Writing the Word? Thus inconſiſtent are theſe men). <hi>But the Senſe and Divine Truths therein contained, and thereby conveyed unto us, and by the Co-operation of God's Spirit working in us Faith and Obe<g ref="char:EOLhyphen"/>dience, which come by Hearing and the Word of God. That its proper to call them the Word of God, tho Chriſt is ſo alſo,</hi> (thus far <hi>Athenians.</hi>)</p>
+            <p>Whence it follows, that when they call the Bible (or thoſe books) <hi>the Word of God,</hi> or when they call the Scriptures, <hi>written the Word of God,</hi> more properly than Chriſt: (It ſeems ther's ſeve<g ref="char:EOLhyphen"/>ral degrees of Compariſon in the Caſe. We are not to underſtand the very Letters, or writing in Ink and Paper, to be the word) (that's improper) but the Sence and Divine Truths therein con<g ref="char:EOLhyphen"/>tained, and thereby conveyed unto us by the Co-operation of Gods Spirit working in us Faith and Obedience, <hi>&amp;c.</hi> And ſurely this is more than the writings, books or Scriptures written, therefore they are not properly called the <hi>Word,</hi> but rather that which is the living Word, or Spirit of God, which worketh in us Faith and Obedience, and conveys unto us the Senſe and Divine Truths of the Scriptures; and we are ſure that this living Eternal Word is often mentioned the Scriptures, but never find that <hi>the Holy Pen<g ref="char:EOLhyphen"/>men</hi>
+               <pb facs="tcp:172458:2"/> (or ſeveral of them) <hi>call their Writings the Word,</hi> much leſs that <hi>it may be ſo proved from one hundred places in Scriptures.</hi> For which we have but theſe <hi>Athenians</hi> bare ſay ſo, inſtead of any real Scripture proof, their calling <hi>the Writings the Word of God,</hi> we are gotten over, and that on their own ſelf conttadicting Con<g ref="char:EOLhyphen"/>ceſſion before. That the Divine Truths conveyed by the Co-ope<g ref="char:EOLhyphen"/>ration of Gods Spirit, working Faith in us (and not the very Letters or Writings) are the word of God, in theſe Mens unſta<g ref="char:EOLhyphen"/>ble Senſe, from which they ſuddenly vary; for out of theſe pre<g ref="char:EOLhyphen"/>tended <hi>hundred places of Scripture to prove the Holy Penmen called their Writings the word of God;</hi> they only bid us take two or three, 36. <hi>Jer.</hi> 4. <hi>Baruch wrote from the Mouth of Jeremiah all the words of the Lord,</hi> v. 10 they are called <hi>the words of Jeremiah,</hi> and yet in the 2. and 11. verſes <hi>the words of the Lord,</hi> add to theſe Verſes, 6, 11, 13. 16. 17 18, 24, 27, and 32. Where they are called <hi>the words of the Lord, theſe words,</hi> and <hi>the words, &amp;c. which were wrote with Ink in the Book or Roll, which the King of Judah burnt.</hi> But he could not burn the word of the Lord which came unto <hi>Jeremiah,</hi> for that remained when the writing was burnt, and after the King had burnt it, the word of the Lord again came to <hi>Jeremiah,</hi> and required him to take another Roll, and write in it all the former words that were in the firſt Roll, which <hi>Jehoiachim</hi> the King of <hi>Judah had burnt.</hi> 36. <hi>Jer.</hi> 27, 28. Therefore that word that came a<g ref="char:EOLhyphen"/>gain to <hi>Jerem.</hi> could not be the <hi>Roll or Book that was burnt,</hi> but it was the word of the Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d which gave unto him theſe words which were written in the Roll. We could not have a more apt proof againſt our Oppoſers, for our Diſtinction between <hi>the word of God,</hi> (which came to the Prophets before they writ Scripture) and the <hi>ſayings</hi> or <hi>words</hi> of the Lord, and of his Prophets written in the Scriptures) and this the People called Quakers profeſs, and will eaſily grant them. But this will not ſatisfy theſe conceited witty <hi>Athenians,</hi> for they will needs not only have it, <hi>that the Holy Penmen call their writings the word,</hi> but they will have this very place of <hi>Jer. ch.</hi> 36. for their principal proof.</p>
+            <p>And what's their moſt pregnant proof therein pray? Not that <hi>theſe are the words of the Lord,</hi> nor that <hi>theſe are the words of</hi> Jeremi<g ref="char:EOLhyphen"/>ah, <hi>v.</hi> 6.10. for this we freely grant them. But now their Blow and Proof comes with a Bang upon the Quakers. <hi>Nor will their ſilly Evaſion help that 'tis words not word, for in the firſt Verſe of the ſame Chapter, 'tis ſaid, this word came to Jeremiah from the Lord... take thee a Roll of a Book, ctc.</hi>— But here they fallaciouſly leave out [ſaying] after <hi>[Lord]</hi> in which chapter there are the words and ſayings, which the word that thus came to <hi>Jeremiah</hi> ſaid. Surely this word which came to <hi>Jer.</hi> it was neither the Roll nor the Writing therein; for <hi>Baruch</hi> wrote it at the mouth of <hi>Jeremiah</hi> after the word of the Lord came unto him, and it was the ſame' word of the Lord that came again unto him, after the Roll and Writing in it was burnt, that had the words of the Lord written in it, yea the very ſame word of the Lord, that cauſed <hi>all the for<g ref="char:EOLhyphen"/>mer words that were in the firſt Roll, to be written again in another Roll;</hi> conſequently that <hi>writing Roll or Book</hi> could not be <hi>the word</hi> that came to <hi>Jeremiah,</hi> and which was as <hi>a Fire in his Bones,</hi> and <hi>as a Hammar and a Sword,</hi> therefore he well diſtinguiſhed between the <hi>word</hi> of the Lord, and the <hi>words</hi> of the Lord, as alſo where 'tis ſaid <hi>Jer.</hi> 1.2. <hi>The words of Jeremiah,</hi> &amp;c. <hi>to whom the word of the Lord came.</hi> And <hi>Ch.</hi> 51.64. <hi>Thus far the words of Jeremiah.</hi>
+            </p>
+            <p>I ſuppoſe theſe Adverſaries will not adventure to ſay, that the Bible came to <hi>Jeremiah,</hi> nor that all the Holy Penmens writings in Scripture came to <hi>Jeremiah;</hi> or <hi>were that word</hi> which came to him. How ſhort are they then of Scripture proof for their poſition, and charge? And what a hard (but impertinent) ſhift are they put to to prove it, when on <hi>Jer.</hi> 36.1. they alleadge, <hi>viz. Where are many more words than one, tho the ſingular is uſed for the plural, a common ſcheme of ſpeech in all Nations.</hi> A meer ſhift indeed, but they wrong the Prophet here alſo, for he does not here uſe that Impropriety of ſingular for plural, but ſpeaks diſtinctly of the <hi>word of the Lord,</hi> which came to him, and <hi>the words of the Lord</hi> written with Ink in the Book or Roll; to conclude this point we are ſo far from <hi>contemning,</hi> or <hi>undervaluing the Holy Scriptures,</hi> that we grant them to be (or contain) the words of God, and aſcribe Holineſs to the Divine Truths therein contained (not to the meer Letters, Characters, or Writings in Ink and Paper) and we are conſcienciouſly concerned in keeping to the Scripture Language, in calling them what they call themſelves, and in cal<g ref="char:EOLhyphen"/>ling <hi>him (Chriſt)</hi> the word of God who was before all Scriptures or Writings were.</p>
+            <p>And however tho they ſay Chriſt is <hi>figuratviely,</hi> the word of God yet he is ſo called more properly than ſo to call the Bible, Books or Writings from the beginning of <hi>Geneſis,</hi> to the end of the <hi>Revelation,</hi> inſomuch that many ſo frequently calling the <hi>Bible the word</hi> of God without diſtinction, and ſo little minding the <hi>Eternal, Internal</hi> liv<g ref="char:EOLhyphen"/>ing <hi>Word,</hi> that many People are kept ſo ignorant, that they know no other word, nor what they may ſo call but the Bible, Books, or outward Writings: 'Tis to be lamented to ſee the ſenſe of the ingrafted word in the Heart ſo much loſt, by many poor ignorant Souls.</p>
+            <p>To their loud clamorous and general Charge, <hi>That the Quakers term their own blaſphemous writings the word of the Lord;</hi> and this more than once repeated, 'tis too groſs and too general to be true, therefore in the name and behalf of the People called Quakers I deny their Charge, and ſuppoſe any one hath ſo termed any book, paper or papers of his (which ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I may not grant till proved) this will be no proof of their general Charge upon the Quakers, that they ſo term their Writings, much leſs that they are blaſphemous, and I do not believe any of us have ſo termed their Writings, Pa<g ref="char:EOLhyphen"/>pers or Books, without reference to the <hi>internal word of Life,</hi> or <hi>immediane movings</hi> thereof to write, or declare.</p>
+            <p>Their Charge and Accuſation of <hi>Turning the moſt ſatred Truths of the Scripture into Jejune Allegories,</hi> we alſo ſincerely deny, together with their ſubſequent Charge, <hi>of turning all, both our Saviours Death Reſurrection, Heaven and Hell into Alegory:</hi> Which is ſo groſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Untruth, that I never knew any before, that ever read our <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> objects ſo charge us, if theſe men have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead them they have done ve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wickedly, thus ſouly and falſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to charge us and if they have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, they have very blindly ſought to ſmite us in the Dark, in their dark Envy, but miſſed their Blow; for the reality of theſe weighty matters aforeſaid, of our <hi>Saviours Death and Reſurrection, &amp;c.</hi> we have really believed as the Scriptures de<g ref="char:EOLhyphen"/>clare, and I am to examine theſe mens pretended proof, elſewhere, againſt us.</p>
+            <p>Theſe <hi>Athenians</hi> ſeem to make a great buzzing Noiſe againſt the People called Quakers, whom they very groſly and falſly accuſe, for Idollizing and formally Praying to each other, for which ge<g ref="char:EOLhyphen"/>neral Calumny and Slander their chief inſtance is about two Let<g ref="char:EOLhyphen"/>ters, the one pretended to be <hi>Joſiah Coales,</hi> and the other <hi>John Audlands,</hi> for which they quote <hi>Faldoes book,</hi> and <hi>Francis Bugs</hi> for their Authority; and then having taken their Citations upon truſt they ſubjoined, <hi>viz. with all theſe Blaſphemies when they were charged.</hi> Here they pretend to cite <hi>George Whiteheads Anſwer,</hi> tho they cite but one Queſtion out of it, quoting <hi>Innocency againſt Envy,</hi> p. 18 Wherein I muſt tell them they have dealt very diſingeniouſly, by <hi>G. W.</hi> in this very matter; leaving out his previous Queſtions to <hi>Bugg</hi> about the ſaid 2 Letters, as alſo his following Anſwer and Teſtimony, which were thus, <hi>viz.</hi> 
+               <q>As to his Charge of Idola<g ref="char:EOLhyphen"/>try, if not Blaſphemous Names and Titles given to <hi>G. F. p.</hi> 29. from two Letters, the one from <hi>Joſ. Cole,</hi> and the other from <hi>J. A.</hi> We queſtion whether he has truly cited them, and eſpeci<g ref="char:EOLhyphen"/>ally that from J. <hi>A.</hi> How proves he they are theirs as cited? And we are ſure that the man <hi>G. Fox,</hi> did own himſelf a Servant of our Lord Jeſus Chriſt, and did preach and pray in his Name, and to him, and not in his own; as many Thouſands can teſtifie.</q>
+            </p>
+            <p>All theſe recited Paſſages both Queſtions and Teſtimony, theſe <hi>Athenians</hi> have unfairly left out; altho the ſaid <hi>G. W.</hi> appears more poſitive about the 2 ſaid Letters, pretended to be <hi>Joſ. Coals,</hi> and <hi>John Audlands,</hi> in his Treatiſe againſt <hi>Bugg,</hi> intituled, <hi>tho Conten<g ref="char:EOLhyphen"/>tious Apoſtate, and his Blow Refelled,</hi> p. 23. <hi>G. W.</hi> Words are theſe (againſt <hi>Bugg) viz.</hi> 
+               <q>He hath accuſed <hi>J. C.</hi> and <hi>J. A.</hi> (both long ſince deceaſed;) with Idolatrous and Blaſphemous Names and Titles given to Man; Prayers given or offered to <hi>G. F. Deifying</hi> and <hi>Adoring</hi> him, <hi>&amp;c. p.</hi> 7. in two Letters before mentioned, which I have not only queſtioned the Truth of his Citation there<g ref="char:EOLhyphen"/>of, but diſowned. Eſpecially the latter, as cited by <hi>F. B.</hi> who hath alſo varied in his citation thereof, nor hath he gone about to prove either that they are truly cited by him, but rather the contrary by his manifeſt variation therein, ſo that ſtill it re<g ref="char:EOLhyphen"/>mains for <hi>F. B.</hi> (to whom I may now add, and for theſe <hi>Atheni<g ref="char:EOLhyphen"/>ans</hi>) to prove that the Perſons charged <hi>(i. e.) J. C.</hi> and J. <hi>A.</hi> were the Authors of the ſaid Letters, as cited by him which I do not believe nor own, nor can I underſtand them to be Prayers, as he calls them, when there is not ſo much as the form of a Prayer in them. Theſe things conſidered <hi>F. B.</hi>'s Clamours a<g ref="char:EOLhyphen"/>gainſt us, of juſtifying Idolatry and Blaſphemy, <hi>&amp;c.</hi> do all fall to the ground, as meer empty and envious Railery and Abuſe.</q>
+            </p>
+            <p>And now to you prete<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded <hi>Athenians,</hi> in the Caſe in hand: I am perſwaded you'l have cauſe to be aſhamed of <hi>F. Buggs</hi> Autho<g ref="char:EOLhyphen"/>rity, which you have ſo cordially eſpouſed. If you inſpect how he has been detected and juſtly charged, as a <hi>ſelf condemned Apoſtate;</hi> And ſince you have been ſo credulous of his, and <hi>John Faldoes,</hi> Au<g ref="char:EOLhyphen"/>thority about the two Letters aforeſaid, I have reaſon to bring the matter more cloſely upon you. Firſt, cauſe appears to us to deny both their and your Citation thereof, to be juſtly or truly made; <hi>Bugg</hi> varied in his in two differing Citations (and ſo have ſome of the Baptiſts lately) We do not believe eihter of them to be perfect intire Copies of the whole Original Letters, but ra<g ref="char:EOLhyphen"/>ther corrupted, minced and perverted, deſignedly by the evil mind<g ref="char:EOLhyphen"/>ed Perſons (if not fictitious Forgeries) eſpecially the latter. Both Prayers and Praiſes may be aſcribed to God and Chriſt, in a Let<g ref="char:EOLhyphen"/>ter to a Friend, which by an Enemy, poſſibly may be eaſily per<g ref="char:EOLhyphen"/>verted, and directed to the Perſon to whom the Letter is directed. How prove you they are true and perfect Copies, as cited? 2. You have made your Charge and Indictment, for <hi>Idollizing, and formally praying to each other;</hi> general againſt the Quakers, and 'tis high matter of Fact and Criminal. That is charged by you. It touches not only 2 or 3 particular Perſons, but alſo the People called Quakers in general, in whoſe behalf I therefore plead not guilty, and your proof muſt either be as general as your Charge, or elſe you'll come off but faintly. 3. And if you'l place your General Charge on the ſaid two Letters, as cited (tho no juſt way of arguing) I am perſwaded the firſt, (<hi>i. e.</hi> J. <hi>C</hi>'s which you ſay Mr. <hi>Pen has it ſeems undertaken to defend,</hi> ſuppoſe it as it is, which yet I queſtion), will not amount to any real or poſitive proof of their Charge againſt him in perticular, much leſs againſt the People called Quakers in general, who are unconcerned in it Fourthly, Since you are ſo credulous, ſo general, and ſo loud in: your Charge; we may reaſonably expect from you, exact and punctual proof of both the ſaid Letters as cited, and as before pro<g ref="char:EOLhyphen"/>poſed, either by producing the Originals to compare them by, or ſufficient credible witneſſes thereof' that are no parties nor our profeſſed Adverſaries or Enemies, as both <hi>Bugg</hi> and <hi>Faldo</hi> are. 4. As for the <hi>latter,</hi> ſaid to be J. <hi>A</hi>'s we do poſitively deny it as it is cited in yours; and doubt not but we can eaſily clear both the men (and <hi>G. F. alſo</hi>) from your odious charge, and that upon their own profeſſed Chriſtian Principle, and declared intentions in their own books extant, and that they did not own or worſhip any o<g ref="char:EOLhyphen"/>ther <hi>Lord Jeſus Chriſi,</hi> than the very ſame, who is the <hi>only begotten of God,</hi> of whom the Holy Scriptures do teſtifie: Nor could they ever intend to aſcribe any Dignity of Glory that is only peculiar to Chriſt Jeſus) to the perſon of any mortal upon Earth, accord<g ref="char:EOLhyphen"/>ing to their own profeſſed principle. We knowing them alſo to be both underſtanding and honeſt men, fearing God and Miniſters of Jeſus Chriſt (the only begotten Son of God) in their day and time.</p>
+            <p>The Reader may expect to hear further from us (if the Lord will) to manifeſt the Abuſe of theſe Adverſaries ſcandalous inve<g ref="char:EOLhyphen"/>ctive Libels, and to vindicate the People of God, commonly cal<g ref="char:EOLhyphen"/>led Quakers, and the Truth profeſſed by them, from their Ca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <closer>
+               <signed>T B. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. E. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> S <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
